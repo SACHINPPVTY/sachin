@@ -1,0 +1,10 @@
+.link{
+    display: grid;
+    padding: 50px;
+  
+    grid-template-columns: 1fr  1fr 1fr 1fr 1fr 1fr ;
+    row-gap: 0px;
+    column-gap:0px;
+   /*background-color: #415f05ad;*/
+    text-align: center;
+  }
